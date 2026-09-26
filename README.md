@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Imran 👋
 
-<!--
-**Mdarman18/Mdarman18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | B.Tech CSE Student
 
-Here are some ideas to get you started:
+I’m a 3rd-year Computer Science Engineering student and a Full Stack Developer.
+I enjoy building web applications, learning new technologies, and solving real-world problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills
+
+* **Frontend:** React.js, JavaScript, HTML, CSS, Tailwind CSS
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB
+* **Tools:** Git, GitHub, VS Code
+
+### 🌱 Currently Learning
+
+* Full Stack Development
+* Backend Development
+* System Design
+* Writing clean and maintainable code
+
+### 🤝 Connect With Me
+
+* 💼 **LinkedIn:** https://www.linkedin.com/in/md-imran-006751392/
+* 💻 **GitHub:** https://github.com/Mdarman18
+
+### 💡 Favorite Quotes
+> “Every bug is an opportunity to learn something new.”
+
+> “The best way to learn programming is to build.”
+
+**Keep learning. Keep building. Keep improving.**

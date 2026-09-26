@@ -4,20 +4,15 @@
 
 I’m a 3rd-year Computer Science Engineering student and a Full Stack Developer.
 I enjoy building web applications, learning new technologies, and solving real-world problems through code.
-
-### 💻 Skills
-
-* **Frontend:** React.js, JavaScript, HTML, CSS, Tailwind CSS
-* **Backend:** Node.js, Express.js
-* **Database:** MongoDB
-* **Tools:** Git, GitHub, VS Code
-
-### 🌱 Currently Learning
-
-* Full Stack Development
-* Backend Development
-* System Design
-* Writing clean and maintainable code
+const imran = {
+  role: "Full Stack Developer",
+  education: "3rd Year B.Tech CSE",
+  location: "Jaipur, Rajasthan",
+  skills: ["React", "Node.js", "Express.js", "MongoDB"],
+  building: "StudySharp 📚a social media learning platfrom",
+  goal: "Become a skilled Software Developer",
+  mindset: "Learn → Build → Solve → Improve"
+};
 
 ### 🤝 Connect With Me
 
